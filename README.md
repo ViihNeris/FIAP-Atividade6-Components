@@ -9,13 +9,14 @@
 
 ### Descrição 📋
 
-Clonando projeto React, desmembrando componentes 👩🏻‍💻
+Clonando projeto React e desmembrando componentes 👩🏻‍💻<br />
+<b>Tutor:</b> <i>Gláucio Daniel</i>.
 
-1 - Clone o repositório: https://github.com/glauciodaniel/fiap-avanade-trabalho<br />
-2 - Em seguida instale as dependências.<br />
+1 - Clone o repositório: https://github.com/glauciodaniel/fiap-avanade-trabalho;<br />
+2 - Instale as dependências;<br />
 3 - Faça o projeto rodar;<br />
 4 - Haverá um erro visual no código, corrija-o;<br />
-5 - Separe o código em pelo menos mais dois componentes. Cuidado para não exagerar criando componentes desnecessários.<br />
+5 - Separe o código em pelo menos dois componentes. <b>Cuidado para não exagerar criando componentes desnecessários.</b><br />
 <br />
 
 ## Desenvolvimento ⚙
