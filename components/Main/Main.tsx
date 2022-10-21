@@ -5,7 +5,7 @@ export default function Main() {
   return (
     <div className={styles.grid}>
 
-    <a href='google.com' className={styles.card}>
+    <a href='https://github.com/ViihNeris/FIAP-Atividade6-Components' className={styles.card}>
       <h2>Encontre o erro  &rarr;</h2>
       <p>
         <del className={styles.error}>Existe um erro neste arquivo.</del> Corrigido! Clique aqui para visualizar o repositório 😉👩🏻‍💻
