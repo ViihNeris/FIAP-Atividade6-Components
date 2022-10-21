@@ -1,4 +1,4 @@
-# Atividade 6 - FIAP 🔴⚫
+# Atividade 6 – FIAP 🔴⚫
 
 ### Integrantes 👥
 - Aline Melissa;
