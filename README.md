@@ -33,5 +33,11 @@ Confira abaixo a proposta acerca do problema e a solução encontrada pelo grupo
 
 <br />
 
+## Acesse este projeto 💻
+<i>Confira o funcionamento deste sistema em: https://fiap-atividade6-components.vercel.app</i> 🤓
+
+<br />
+
 ## Continue acompanhando! 👩🏻‍💻
 Os repositórios com a tag "fiap" se referem aos treinamentos realizados, e este é um deles! Acompanhe a evolução! 👩🏻‍💻😉🧡
+https://github.com/ViihNeris/
