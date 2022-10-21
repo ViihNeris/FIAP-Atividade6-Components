@@ -2,6 +2,10 @@
   padding: 0 2rem;
 }
 
+.error{
+  color: green;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
@@ -104,8 +108,10 @@
 }
 
 .logo {
-  height: 1em;
+  height: 2.5em;
   margin-left: 0.5rem;
+  display: flex;
+  width: 38px;
 }
 
 @media (max-width: 600px) {
@@ -122,8 +128,5 @@
   }
   .code {
     background: #111;
-  }
-  .logo img {
-    filter: invert(1);
   }
 }
